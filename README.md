@@ -26,6 +26,16 @@ This is a simple React Native application that allows you to search and view con
   ```bash
   git clone <repository_url>
 
+1. Clone the repository:
+
+  ```bash
+  git clone <repository_url>
+
+1. Clone the repository:
+
+  ```bash
+  git clone <repository_url>    
+
 2. Install the dependencies:
 
   ```bash
