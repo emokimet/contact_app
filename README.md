@@ -62,24 +62,27 @@ In the contact details modal, you can tap on the "Text" button to send a text me
 ## Dependencies
 
 react: ^16.13.1
+
 react-native: ^0.63.3
+
 react-native-contacts: ^7.7.0
+
 react-native-communications: ^3.1.1  
   
 
-# react -
+### react -
 
 This is the core library for building user interfaces in React. It provides the necessary functionality and components for creating interactive UIs.
 
   
 
-# react-native -
+### react-native -
 
 This is the framework for building native mobile apps using React. It allows you to write JavaScript code and render it as native components on iOS and Android devices.
 
   
 
-# react-native-contacts -
+### react-native-contacts -
 
 - npm install react-native-contacts
 
@@ -87,7 +90,7 @@ This package provides a simple way to access and manage the device's contact lis
 
   
 
-# react-native-communications -
+### react-native-communications -
 
 - npm install react-native-communications
 
