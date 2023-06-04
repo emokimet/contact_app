@@ -58,9 +58,11 @@ This is the core library for building user interfaces in React. It provides the 
 This is the framework for building native mobile apps using React. It allows you to write JavaScript code and render it as native components on iOS and Android devices.
 
 # react-native-contacts - 
+- npm install react-native-contacts 
 This package provides a simple way to access and manage the device's contact list. It allows you to fetch, create, update, and delete contacts using a set of convenient methods. In the app, it is used to fetch and display the list of contacts.
 
 # react-native-communications - 
+- npm install react-native-communications
 This package provides a set of communication-related functions for React Native apps. It includes methods for sending text messages, making phone calls, sending emails, and opening URLs. In the app, it is used to send text messages and make phone calls to the selected contacts.
 
 
