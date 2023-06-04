@@ -10,8 +10,6 @@ Develop a sample "Contacts" mobile app in React Native, which does the following
 
 # React Native Contacts App
 
-This is a simple React Native application that allows you to search and view contacts from your device's contact list. You can also send text messages and make phone calls to the contacts.
-
 ## Features
 
 - Fetches and displays the list of contacts from the device's contact list
@@ -26,25 +24,13 @@ This is a simple React Native application that allows you to search and view con
   ```bash
   git clone <repository_url>
 
-1. Clone the repository:
-
-  ```bash
-  git clone <repository_url>
-
-1. Clone the repository:
-
-  ```bash
-  git clone <repository_url>    
-
 2. Install the dependencies:
-
-  ```bash
+  
   cd react-native-contacts-app  
   npm install
 
 3. Run the application:
-
-  ```bash
+  
   npx react-native run-android
   npx react-native run-ios
 
