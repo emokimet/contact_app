@@ -1,5 +1,4 @@
-# Contact_App
-
+# React Native Contacts App
 
 # What to do
 
@@ -12,10 +11,7 @@ Develop a sample "Contacts" mobile app in React Native, which does the following
 3. If a contact is clicked on, show their name and number in a dismissable popup
 
     
-
-# React Native Contacts App
-
-  ## Features
+## Features
 
   
 - Fetches and displays the list of contacts from the device's contact list
