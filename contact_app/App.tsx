@@ -87,12 +87,12 @@ export default function App() {
         />
         <TextInput
           placeholder="Search contacts & places"
-          placeholderTextColor="gray"
-          style={styles.searchBox}
+          placeholderTextColor="grey"
+          style={[styles.searchBox, {color: 'white'}]}
           autoCapitalize="none"
           autoCorrect={false}
           value={search}
-          onChangeText={text => setSearch(text)}
+          onChangeText={text => searchContact(text)}
         />
         <TouchableOpacity>
           <Image
@@ -218,7 +218,7 @@ const styles = StyleSheet.create({
     borderColor: '#ccc',
     borderWidth: 1,
     borderRadius: 50,
-    color: 'grey',
+    color: 'white',
   },
   searchIcon: {
     width: 20,
