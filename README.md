@@ -27,10 +27,14 @@ This is a simple React Native application that allows you to search and view con
   git clone <repository_url>
 
 2. Install the dependencies:
+
+  ```bash
   cd react-native-contacts-app  
   npm install
 
-3. Run the application:  
+3. Run the application:
+
+  ```bash
   npx react-native run-android
   npx react-native run-ios
 
